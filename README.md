@@ -1,0 +1,2 @@
+# SPIDERRBot
+easybooster SPIDERRBot
